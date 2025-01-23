@@ -3,4 +3,4 @@ print("bububububububububu")
 a=6
 
 print(a)
-print(6/3)
+print(6/4)
